@@ -41,7 +41,7 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(text=_["S_B_7"], url=config.SUPPORT_CHANNEL), 
-            InlineKeyboardButton(text=_["S_B_5"], url="https://t.me/AuraVisual")
+            InlineKeyboardButton(text=_["S_B_5"], url="https://t.me/TryAura")
         ]
     ]
     return buttons
