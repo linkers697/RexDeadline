@@ -93,7 +93,7 @@ DeadlineTech Music
 <details>
 <summary><b>🔹 Deploy to Heroku</b></summary>
 
-[![Deploy](https://img.shields.io/badge/Deploy%20to-Heroku-4700f5?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/lexer697/DeadlineShizuka)
+[![Deploy](https://img.shields.io/badge/Deploy%20to-Heroku-4700f5?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/linkers697/RexDeadline)
 
 </details>
 
