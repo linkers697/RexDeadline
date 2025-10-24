@@ -15,7 +15,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 #Get API_KEY from @DeadlineTechOwner or @DeadlineApiBot
 API_URL = getenv("API_URL", 'https://deadlinetech.site')
-API_KEY = getenv("API_KEY", 'CFVga44000iyOYMMtNAb')
+API_KEY = getenv("API_KEY", 'dwbQy92599BziYMyNrpS')
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -26,7 +26,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @Harry_RoxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 7569863273))
+OWNER_ID = int(getenv("OWNER_ID", 7749780042))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -36,15 +36,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/lexer697/DeadlineShizuka",
+    "https://github.com/linkers697/RexDeadline",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AuraVisual")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/HeavenChatGroup")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/feelingDirtYy")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/SexiestGroup")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
